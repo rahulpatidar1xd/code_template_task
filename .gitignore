@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Editor/IDE settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Bytecode and compiled files
+*.pyc
+
+# Flask specific
+instance/
+*.db
+*.sqlite3
+
+# dotenv files
+.env
